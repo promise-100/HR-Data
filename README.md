@@ -1,6 +1,24 @@
 # HR-Data
 ## Project Title: Attrition Analysis
 
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
+
+[View of my Dashboards](#view-of-my-dashboards)
+
+[Conclusion](#conclusion)
+
 ### Project Overview:
 ---
 This project aims to analyse the attrition rate of employees and what other factor affects the organization's overall rate.
@@ -99,7 +117,7 @@ I started my data analysis by transforming my data.Making sure the data is of go
    strategies designed to address the unique concerns and goals of younger employees. Implementing initiatives centered around career development,mentorship and work-life balance could particularly effective 
    within these age bracket.
 
-  ### Here is a view of my dashboard.
+  ### View of my Dashboards.
 
    ![HR Dashboard 01](https://github.com/user-attachments/assets/a367d893-53c9-45e7-b9c7-052da7441d83)
 
