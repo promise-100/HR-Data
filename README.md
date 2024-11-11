@@ -33,7 +33,7 @@ Exploratory Data Analysis involves the exploring of the data to answer some ques
 - How does attrition vary based on the number of years employees have spent at the organization.
 - What gender has the highest number of attrition.
 
-### Data Analysi:
+### Data Analysis:
 ---
 I started my data analysis by transforming my data.Making sure the data is of good quality. i also created measures,"Attrition Rate"and the total number of employees.
 ![DAX Used HR Data](https://github.com/user-attachments/assets/756dc59a-78bf-4a43-9dc5-96318ecc4cd9)
@@ -42,14 +42,14 @@ I started my data analysis by transforming my data.Making sure the data is of go
 
 ### Data Visualization:
 ---
-1. The current overview of employees departures in the organization.
+#### 1. The current overview of employees departures in the organization.
 
    ![HR KPI 2](https://github.com/user-attachments/assets/05c04727-c382-445e-8903-be3c9b4a55f9)
 
    The organization has an attrition rate of 16%. This means that 237 employees has left the organization during the 
    studied period while the total current employyes is 1470. The average age of the departing employees is 37 years.
 
-2. Attrition by Gender:
+#### 2. Attrition by Gender:
 
    ![Attrition by gender](https://github.com/user-attachments/assets/4849ba73-2da0-4222-9dec-aeb91d81c7aa)
 
@@ -61,7 +61,7 @@ I started my data analysis by transforming my data.Making sure the data is of go
      - Review feedbacks to know areas to improve on.
      - Ensure an inclusive workplace with equal opportunities.
 
-3. Attrition by Department:
+#### 3. Attrition by Department:
      
    ![ATTRITION BY DEPARTMENT](https://github.com/user-attachments/assets/2a6698a9-34fc-4262-99ad-9538b3cf3ac0)
 
@@ -73,7 +73,7 @@ I started my data analysis by transforming my data.Making sure the data is of go
    - Enhance job satisfaction.
    - Analyze the HR's retention success and apply same to other departments.
 
-4. Attrition by Educational Field:
+#### 4. Attrition by Educational Field:
 
     ![Attrition by edu field](https://github.com/user-attachments/assets/3c435655-83e3-45da-8d0b-d58de5ead0de)
 
@@ -82,7 +82,7 @@ I started my data analysis by transforming my data.Making sure the data is of go
    The high number of departure among those from Life Science  shows the need for focused attention and strategic  efforts to reduce attrition in this group. Conversly, the lower departure among the Human 
    Resources suggests there may be an effective retention factor at play. Understanding this trend provides the organization with insights to develop retention strategies.
 
-5. Attrition by Marital Status:
+#### 5. Attrition by Marital Status:
 
     ![Attrtion by marital status](https://github.com/user-attachments/assets/e7cdac35-2e62-4cdc-b6fc-1c5e85e41d94)
    
@@ -90,7 +90,7 @@ I started my data analysis by transforming my data.Making sure the data is of go
    divorced category, the male still have the highest number of attrition which is 24. This can be as a result of the family and relationship issues, health or wellness concerns.
    The main reason for high rete of attrition in the male gender should be investigated and measures should be taken immediately.
 
-7. Attrition by Age:
+#### 6. Attrition by Age:
 
    ![Attrition count by Age](https://github.com/user-attachments/assets/3bae7a97-5aa6-40a2-a5e7-a3c31760a06b)
    This visual shows that the highest number of employees leaving the organization is in the age group of 25 to 34 years old, with a total of 112 individual and among them are 69 males. The next age category is 
@@ -99,7 +99,7 @@ I started my data analysis by transforming my data.Making sure the data is of go
    strategies designed to address the unique concerns and goals of younger employees. Implementing initiatives centered around career development,mentorship and work-life balance could particularly effective 
    within these age bracket.
 
-   Here is a view of my dashboard.
+  ### Here is a view of my dashboard.
 
    ![HR Dashboard 01](https://github.com/user-attachments/assets/a367d893-53c9-45e7-b9c7-052da7441d83)
 
