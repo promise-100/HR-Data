@@ -25,7 +25,7 @@ This project aims to analyse the attrition rate of employees and what other fact
 
 ### Data Sources:
 ---
-This HR Data is gotteh from 
+This HR Data is an open source data that can be downloadable from an open source online such as kaggle or any other data repository site. 
 
 ### Tools Used:
 ---
